@@ -96,4 +96,4 @@ for name, model in models.items():
     _, accuracy = model.evaluate(X_test, y_test, verbose=0)
     print(f'Testing model: {name}. \nAccuracy: {accuracy}')    
     print('---')
-#===============Compile, train the models for 25 epochs, and evaluate them on the test set===============
+#===============Compile, train the models for 25 epochs, and evaluate them on the test set================
