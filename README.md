@@ -22,7 +22,7 @@ Working with Keras API and Tensorflow on different datasets
 | functional_model  | 0.979200005531311  |
 | class_model  | 0.9797000288963318  |
 
-
+#
 ## Running load_keras.py
 * Display an image using <b>matplotlib</b> after normalization.
 
@@ -34,7 +34,7 @@ Working with Keras API and Tensorflow on different datasets
 
 ![Batch](https://github.com/hasanoqool/TensorFlow2-for-Computer-Vision/blob/main/images/multi.png)
 
-
+#
 ## Running load_tf.py
 * Take a single path from the dataset and plot it.
 
@@ -46,7 +46,7 @@ Working with Keras API and Tensorflow on different datasets
 
 ![Batch2](https://github.com/hasanoqool/TensorFlow2-for-Computer-Vision/blob/main/images/multi2.png)
 
-
+#
 ## Running saving_loading_model.py
 * Saving both the model and its weights in a single <b>HDF5</b> file using the <b>save() method</b>.
 * Trained and Tested on <b>MNIST dataset</b>.
@@ -55,7 +55,7 @@ Working with Keras API and Tensorflow on different datasets
 | ------------- | ------------- |
 | model_weights  | 0.98  |
 
-
+#
 ## Running model_architecture.py
 * Two different ways we can display a <b>model's architecture</b>:
 
@@ -68,7 +68,7 @@ Working with Keras API and Tensorflow on different datasets
 
     ![plot](https://github.com/hasanoqool/TensorFlow2-for-Computer-Vision/blob/main/images/model_arch.jpg)
 
-
+#
 ## Running image_classifier.py
 * implementing an image classifier on <b>Fashion-MNIST</b>:
 
@@ -85,6 +85,6 @@ Working with Keras API and Tensorflow on different datasets
     • <b>model architecture</b> of our model.
 
     ![3](https://github.com/hasanoqool/TensorFlow2-for-Computer-Vision/blob/main/images/image_classifier/model.png)
-
+#
 ## Contact
 Reach me out here: https://www.linkedin.com/in/hasanoqool/
