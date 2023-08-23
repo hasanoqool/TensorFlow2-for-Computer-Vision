@@ -22,3 +22,15 @@ Working with Keras API and Tensorflow on different datasets
 * Load a batch of images using <b>ImageDataGenerator</b>.
 
 ![Batch](https://github.com/hasanoqool/TensorFlow2-for-Computer-Vision/blob/main/images/multi.png)
+
+
+## Running load_tf.py
+* Take a single path from the dataset and plot it.
+
+![Sample2](https://github.com/hasanoqool/TensorFlow2-for-Computer-Vision/blob/main/images/frog.png)
+
+
+
+* Take the first 10 elements of image_dataset, decode and normalize them, and then display them using <b>matplotlib</b>.
+
+![Batch2](https://github.com/hasanoqool/TensorFlow2-for-Computer-Vision/blob/main/images/multi2.png)
