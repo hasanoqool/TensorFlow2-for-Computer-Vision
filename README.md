@@ -19,6 +19,6 @@ Display an image using <b>matplotlib</b> after normalization.
 
 
 
-Load a batch of images using ##ImageDataGenerator.
+Load a batch of images using <b>ImageDataGenerator</b>.
 
 ![IMAGE_DESCRIPTION](https://github.com/hasanoqool/TensorFlow2-for-Computer-Vision/blob/main/images/multi.png)
