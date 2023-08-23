@@ -1,6 +1,15 @@
 # TensorFlow2-for-Computer-Vision
 Working with Keras API and Tensorflow on different datasets
 
+# Overview
+* This repo consists of 6 main topics:
+    * Working with the basic building blocks of the Keras API
+    * Loading images using the Keras API
+    * Loading images using the tf.data.Dataset API
+    * Saving and loading a model
+    * Visualizing a model's architecture
+    * Creating a basic image classifier
+
 ## Running APIs.py
 * Create four models by working with different blocks of the Keras API on <b>MNIST dataset</b>.
 
@@ -75,3 +84,5 @@ Working with Keras API and Tensorflow on different datasets
 
     ![3](https://github.com/hasanoqool/TensorFlow2-for-Computer-Vision/blob/main/images/image_classifier/model.png)
 
+## Contact
+Reach me out here: https://www.linkedin.com/in/hasanoqool/
