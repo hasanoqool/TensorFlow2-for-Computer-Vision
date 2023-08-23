@@ -46,14 +46,14 @@ Working with Keras API and Tensorflow on different datasets
 
 
 ## Running model_architecture.py
-* Two different ways we can display a model's architecture:
+* Two different ways we can display a <b>model's architecture</b>:
 
-    • Using a text summary.
-    
+    • Using a <b>text summary</b>.
+
     ![summary](https://github.com/hasanoqool/TensorFlow2-for-Computer-Vision/blob/main/images/model_summary.png)
 
 
-    • Using a visual diagram.
+    • Using a <b>visual diagram</b>.
 
     ![plot](https://github.com/hasanoqool/TensorFlow2-for-Computer-Vision/blob/main/images/model_arch.jpg)
 
