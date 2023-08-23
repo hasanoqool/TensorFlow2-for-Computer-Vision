@@ -1,7 +1,7 @@
 # TensorFlow2-for-Computer-Vision
 Working with Keras API and Tensorflow on different datasets
 
-# Runing train.py
+# Running train.py
 * Create four models by working with different blocks of the Keras API on MNIST dataset.
 
 | Model  |  Accuracy |
@@ -12,7 +12,7 @@ Working with Keras API and Tensorflow on different datasets
 | class_model  | 0.9797000288963318  |
 
 
-# Runing load_keras.py
+# Running load_keras.py
 * Display an image using <b>matplotlib</b> after normalization.
 
 ![IMAGE_DESCRIPTION](https://github.com/hasanoqool/TensorFlow2-for-Computer-Vision/blob/main/images/boat.png)
