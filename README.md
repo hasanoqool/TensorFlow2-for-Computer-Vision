@@ -10,3 +10,6 @@ Create four models by working with different blocks of the Keras API on MNIST da
 | sequential_list  | 0.9807999730110168  |
 | functional_model  | 0.979200005531311  |
 | class_model  | 0.9797000288963318  |
+
+
+![IMAGE_DESCRIPTION](https://github.com/hasanoqool/TensorFlow2-for-Computer-Vision/blob/main/images/boat.png) 
