@@ -15,10 +15,10 @@ Working with Keras API and Tensorflow on different datasets
 ## Running load_keras.py
 * Display an image using <b>matplotlib</b> after normalization.
 
-![IMAGE_DESCRIPTION](https://github.com/hasanoqool/TensorFlow2-for-Computer-Vision/blob/main/images/boat.png)
+![Sample](https://github.com/hasanoqool/TensorFlow2-for-Computer-Vision/blob/main/images/boat.png)
 
 
 
 * Load a batch of images using <b>ImageDataGenerator</b>.
 
-![IMAGE_DESCRIPTION](https://github.com/hasanoqool/TensorFlow2-for-Computer-Vision/blob/main/images/multi.png)
+![Batch](https://github.com/hasanoqool/TensorFlow2-for-Computer-Vision/blob/main/images/multi.png)
