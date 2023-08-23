@@ -57,3 +57,21 @@ Working with Keras API and Tensorflow on different datasets
 
     ![plot](https://github.com/hasanoqool/TensorFlow2-for-Computer-Vision/blob/main/images/model_arch.jpg)
 
+
+## Running image_classifier.py
+* implementing an image classifier on <b>Fashion-MNIST</b>:
+
+    • <b>loss curve</b> both on the training and validation sets.
+
+    ![1](https://github.com/hasanoqool/TensorFlow2-for-Computer-Vision/blob/main/images/image_classifier/loss.png)
+
+
+    • <b>accuracy curve</b> for the training and validation sets.
+
+    ![2](https://github.com/hasanoqool/TensorFlow2-for-Computer-Vision/blob/main/images/image_classifier/accuracy.png)
+
+
+    • <b>model architecture</b> of our model.
+
+    ![3](https://github.com/hasanoqool/TensorFlow2-for-Computer-Vision/blob/main/images/image_classifier/model.png)
+
