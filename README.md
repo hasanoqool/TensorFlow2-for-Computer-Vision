@@ -34,3 +34,12 @@ Working with Keras API and Tensorflow on different datasets
 * Take the first 10 elements of image_dataset, decode and normalize them, and then display them using <b>matplotlib</b>.
 
 ![Batch2](https://github.com/hasanoqool/TensorFlow2-for-Computer-Vision/blob/main/images/multi2.png)
+
+
+## Running saving_loading_model.py
+* Saving both the model and its weights in a single <b>HDF5</b> file using the <b>save() method</b>.
+| Model  | | Data  |  Accuracy |
+| ------------- | ------------- |
+| model_weights  | 0.98  |
+
+
