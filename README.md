@@ -13,7 +13,7 @@ Create four models by working with different blocks of the Keras API on MNIST da
 
 
 # Runing load_keras.py
-Display an image using ##matplotlib after normalization.
+Display an image using <b>matplotlib</b> after normalization.
 
 ![IMAGE_DESCRIPTION](https://github.com/hasanoqool/TensorFlow2-for-Computer-Vision/blob/main/images/boat.png)
 
