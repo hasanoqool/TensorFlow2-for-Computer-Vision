@@ -12,9 +12,11 @@ Create four models by working with different blocks of the Keras API on MNIST da
 | class_model  | 0.9797000288963318  |
 
 
-# load_keras.py
+# Runing load_keras.py
 Display an image using matplotlib after normalization.
 ![IMAGE_DESCRIPTION](https://github.com/hasanoqool/TensorFlow2-for-Computer-Vision/blob/main/images/boat.png)
+
+| ------------- | ------------- |
 
 Load a batch of images using ImageDataGenerator.
 ![IMAGE_DESCRIPTION](https://github.com/hasanoqool/TensorFlow2-for-Computer-Vision/blob/main/images/multi.png)
