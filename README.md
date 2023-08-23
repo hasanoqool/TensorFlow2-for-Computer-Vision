@@ -38,7 +38,9 @@ Working with Keras API and Tensorflow on different datasets
 
 ## Running saving_loading_model.py
 * Saving both the model and its weights in a single <b>HDF5</b> file using the <b>save() method</b>.
-| Model  | | Data  |  Accuracy |
+* Trained and Tested on <b>MNIST dataset</b>.
+
+| Model  | Accuracy |
 | ------------- | ------------- |
 | model_weights  | 0.98  |
 
