@@ -1,7 +1,7 @@
 # TensorFlow2-for-Computer-Vision
 Working with Keras API and Tensorflow on different datasets
 
-## Running train.py
+## Running APIs.py
 * Create four models by working with different blocks of the Keras API on <b>MNIST dataset</b>.
 
 | Model  |  Accuracy |
