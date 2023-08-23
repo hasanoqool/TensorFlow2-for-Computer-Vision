@@ -38,4 +38,10 @@ summary = model_arch().summary()
 #model plot
 model = model_arch()
 plot_model(model,show_shapes=True,show_layer_names=True,to_file='model_arch.jpg')
-# model_diagram = Image.open('/images/model_arch.jpg')
+"""
+use these 3 commands to plot it in your IDE:
+
+    1- pip install pydot
+    2- pip install pydotplus
+    3- sudo apt-get install graphviz
+    """
