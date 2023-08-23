@@ -2,7 +2,7 @@
 Working with Keras API and Tensorflow on different datasets
 
 ## Running train.py
-* Create four models by working with different blocks of the Keras API on MNIST dataset.
+* Create four models by working with different blocks of the Keras API on <b>MNIST dataset</b>.
 
 | Model  |  Accuracy |
 | ------------- | ------------- |
