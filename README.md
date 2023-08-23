@@ -87,4 +87,4 @@ Working with Keras API and Tensorflow on different datasets
     ![3](https://github.com/hasanoqool/TensorFlow2-for-Computer-Vision/blob/main/images/image_classifier/model.png)
 #
 ## Contact
-Reach me out here: https://www.linkedin.com/in/hasanoqool/
+* Reach me out here: https://www.linkedin.com/in/hasanoqool/
