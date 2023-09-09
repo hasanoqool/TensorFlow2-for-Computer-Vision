@@ -4,12 +4,12 @@ Working with Keras API and Tensorflow on different datasets
 
 # Overview
 * This repo consists of 6 main topics:
-    * Working with the basic building blocks of the Keras API
+    * Building model blocks of the Keras API
     * Loading images using the Keras API
     * Loading images using the tf.data.Dataset API
     * Saving and loading a model
     * Visualizing a model's architecture
-    * Creating a basic image classifier
+    * Creating image classifier
 #
 
 ## Running APIs.py
