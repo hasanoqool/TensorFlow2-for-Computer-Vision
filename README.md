@@ -9,7 +9,7 @@ Working with Keras API and Tensorflow on different datasets
     * Loading images using the tf.data.Dataset API
     * Saving and loading a model
     * Visualizing a model's architecture
-    * Creating image classifier
+    * Creating an image classifier
 #
 
 ## Running APIs.py
